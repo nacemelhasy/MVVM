@@ -1,0 +1,17 @@
+In this file will description or show how mvvm architecture work
+
+In first will show what menning mvvm -> mvvm indicate Modelview view model
+
+for work with mvvm 
+1 - create for all screen show in app file take same name of file means for home screen create file name is homeview
+now will explane what is mission of homeview
+homeview for show only widget and button for screen 
+
+2 - create for all views file ..file name viewmodel in last example will create file with name is homeviewmodel 
+queasion now what is mission for this file this file for give home screen the data
+
+3 - create model for all get data and access on this data from file homeviewmodel 
+
+
+4 - if you access at data from local database or backend create file with name repo for help you access at data
+ 
